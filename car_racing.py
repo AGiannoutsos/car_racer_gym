@@ -106,7 +106,7 @@ class FrictionDetector(contactListener):
 
 ##########################################################################################
 ##########################################################################################
-#########################Continuous action space Car racing###############################
+#########################Discrete action space Car racing###############################
 ##########################################################################################
 ##########################################################################################
 
@@ -118,7 +118,7 @@ class CarRacingDiscrete(gym.Env, EzPickle):
         'video.frames_per_second' : FPS
     }
 
-    def __init__(self, totoal_episode_steps=1000 ,verbose=1):
+    def __init__(self, total_episode_steps=1000 ,verbose=1):
         EzPickle.__init__(self)
         self.seed()
         self.contactListener_keepref = FrictionDetector(self)
@@ -143,7 +143,7 @@ class CarRacingDiscrete(gym.Env, EzPickle):
                         np.array([0,1,0], dtype=np.float32), 
                         np.array([0,0,0.8], dtype=np.float32), 
                         np.array([0,0,0], dtype=np.float32)]  # left right, gas, brake, nothing
-        self.totoal_episode_steps = totoal_episode_steps
+        self.total_episode_steps = total_episode_steps
         self.current_steps = 0
 
         self.observation_space = spaces.Box(low=0, high=255, shape=(STATE_W, STATE_H, 3), dtype=np.uint8)
@@ -364,10 +364,10 @@ class CarRacingDiscrete(gym.Env, EzPickle):
             if abs(x) > PLAYFIELD or abs(y) > PLAYFIELD:
                 done = True
                 step_reward = -100
-            if self.current_steps > self.totoal_episode_steps:
+            if self.current_steps > self.total_episode_steps:
                 done = True
         
-        if self.current_steps > self.totoal_episode_steps:
+        if self.current_steps > self.total_episode_steps:
             done = True 
 
         return self.state, step_reward, done, {}
@@ -517,7 +517,7 @@ class CarRacing(gym.Env, EzPickle):
         'video.frames_per_second' : FPS
     }
 
-    def __init__(self, totoal_episode_steps=1000 ,verbose=1):
+    def __init__(self, total_episode_steps=1000 ,verbose=1):
         EzPickle.__init__(self)
         self.seed()
         self.contactListener_keepref = FrictionDetector(self)
@@ -542,7 +542,7 @@ class CarRacing(gym.Env, EzPickle):
         #                 np.array([0,1,0], dtype=np.float32), 
         #                 np.array([0,0,0.8], dtype=np.float32), 
         #                 np.array([0,0,0], dtype=np.float32)]  # left right, gas, brake, nothing
-        # self.totoal_episode_steps = totoal_episode_steps
+        self.total_episode_steps = total_episode_steps
         self.current_steps = 0
         self.observation_space = spaces.Box(low=0, high=255, shape=(STATE_W, STATE_H, 3), dtype=np.uint8)
 
@@ -761,10 +761,10 @@ class CarRacing(gym.Env, EzPickle):
             if abs(x) > PLAYFIELD or abs(y) > PLAYFIELD:
                 done = True
                 step_reward = -100
-            if self.current_steps > self.totoal_episode_steps:
+            if self.current_steps > self.total_episode_steps:
                 done = True
         
-        if self.current_steps > self.totoal_episode_steps:
+        if self.current_steps > self.total_episode_steps:
             done = True 
 
         return self.state, step_reward, done, {}
