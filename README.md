@@ -12,9 +12,7 @@
 
 [Videos](https://github.com/spympr/car_racer_gym/tree/main/Videos/DQN)
 
-![alt te](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
-
-
+![alt te](https://github.com/spympr/car_racer_gym/blob/main/Videos/DQN/Steps_2000.gif)
 
 
 ## Proximal Policy Optimization (PPO)
