@@ -27,9 +27,9 @@
 
 [Experiments](https://wandb.ai/andreas_giannoutsos/gym_car_racer/reports/-ctor-Critic-A2C-Experiments--Vmlldzo0OTU3NDA)
 
-[GIFs](https://github.com/spympr/car_racer_gym/tree/main/GIFs/A2C)
+[GIFs](https://github.com/spympr/car_racer_gym/tree/main/GIFs/A2C/g32_5000.gif)
 
-![alt te](https://github.com/spympr/car_racer_gym/blob/main/GIFs/A2C/.gif)
+![alt te](https://github.com/spympr/car_racer_gym/blob/main/GIFs/A2C/g32_5000.gif)
 
 
 ## Contributors
