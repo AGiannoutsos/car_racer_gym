@@ -8,6 +8,8 @@
 
 ## Deep Q-Network (DQN)
 
+[Experiments](https://wandb.ai/andreas_giannoutsos/gym_car_racer/reports/DQN-Experiments---Vmlldzo0OTU0NzQ)
+
 ## Proximal Policy Optimization (PPO)
 
 ## Actor-Critic
