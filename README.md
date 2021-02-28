@@ -8,26 +8,26 @@
 
 ## Deep Q-Network (DQN)
 
-[Experiments](https://wandb.ai/andreas_giannoutsos/gym_car_racer/reports/DQN-Experiments---Vmlldzo0OTU0NzQ)
+[DQN_Experiments](https://wandb.ai/andreas_giannoutsos/gym_car_racer/reports/DQN-Experiments---Vmlldzo0OTU0NzQ)
 
-[GIFs](https://github.com/spympr/car_racer_gym/tree/main/Videos/DQN)
+[DQN_GIFs](https://github.com/spympr/car_racer_gym/tree/main/GIFs/DQN)
 
 ![alt te](https://github.com/spympr/car_racer_gym/blob/main/GIFs/DQN/Steps_2000.gif)
 
 
 ## Proximal Policy Optimization (PPO)
 
-[Experiments](https://wandb.ai/andreas_giannoutsos/gym_car_racer/reports/Proximal-Policy-Optimization-PPO-Experiments--Vmlldzo0OTU3MDA)
+[PPO_Experiments](https://wandb.ai/andreas_giannoutsos/gym_car_racer/reports/Proximal-Policy-Optimization-PPO-Experiments--Vmlldzo0OTU3MDA)
 
-[GIFs](https://github.com/spympr/car_racer_gym/tree/main/Videos/PPO)
+[PPO_GIFs](https://github.com/spympr/car_racer_gym/tree/main/GIFs/PPO)
 
 ![alt te](https://github.com/spympr/car_racer_gym/blob/main/GIFs/PPO/Steps_5000.gif)
 
-## Actor-Critic
+## Actor-Critic (A2C)
 
-[Experiments](https://wandb.ai/andreas_giannoutsos/gym_car_racer/reports/-ctor-Critic-A2C-Experiments--Vmlldzo0OTU3NDA)
+[A2C_Experiments](https://wandb.ai/andreas_giannoutsos/gym_car_racer/reports/-ctor-Critic-A2C-Experiments--Vmlldzo0OTU3NDA)
 
-[GIFs](https://github.com/spympr/car_racer_gym/tree/main/GIFs/A2C/g32_5000.gif)
+[A2C_GIFs](https://github.com/spympr/car_racer_gym/tree/main/GIFs/A2C)
 
 ![alt te](https://github.com/spympr/car_racer_gym/blob/main/GIFs/A2C/g32_5000.gif)
 
