@@ -17,7 +17,7 @@
 
 ## Proximal Policy Optimization (PPO)
 
-[Experiments](https://wandb.ai/andreas_giannoutsos/gym_car_racer/reports/DQN-Experiments---Vmlldzo0OTU0NzQ)
+[Experiments](https://wandb.ai/andreas_giannoutsos/gym_car_racer/reports/Proximal-Policy-Optimization-PPO-Experiments--Vmlldzo0OTU3MDA)
 
 [GIFs](https://github.com/spympr/car_racer_gym/tree/main/Videos/PPO)
 
