@@ -23,7 +23,7 @@
 
 ![alt te](https://github.com/spympr/car_racer_gym/blob/main/GIFs/PPO/Steps_5000.gif)
 
-## Actor-Critic
+## Actor-Critic (A2C)
 
 [Experiments](https://wandb.ai/andreas_giannoutsos/gym_car_racer/reports/-ctor-Critic-A2C-Experiments--Vmlldzo0OTU3NDA)
 
