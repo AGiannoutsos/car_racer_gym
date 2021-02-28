@@ -12,6 +12,10 @@
 
 [Videos](https://github.com/spympr/car_racer_gym/tree/main/Videos/DQN)
 
+![Quick View of Car's Performance](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+
+
+
 
 ## Proximal Policy Optimization (PPO)
 
