@@ -21,6 +21,8 @@
 
 [GIFs](https://github.com/spympr/car_racer_gym/tree/main/Videos/PPO)
 
+![alt te](https://github.com/spympr/car_racer_gym/blob/main/Videos/PPO/Steps_5000.gif)
+
 ## Actor-Critic
 
 [Experiments](https://wandb.ai/andreas_giannoutsos/gym_car_racer/reports/DQN-Experiments---Vmlldzo0OTU0NzQ)
