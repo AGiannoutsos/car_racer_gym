@@ -12,7 +12,7 @@
 
 [GIFs](https://github.com/spympr/car_racer_gym/tree/main/Videos/DQN)
 
-![alt te](https://github.com/spympr/car_racer_gym/blob/main/Videos/DQN/Steps_2000.gif)
+![alt te](https://github.com/spympr/car_racer_gym/blob/main/GIFs/DQN/Steps_2000.gif)
 
 
 ## Proximal Policy Optimization (PPO)
@@ -21,13 +21,13 @@
 
 [GIFs](https://github.com/spympr/car_racer_gym/tree/main/Videos/PPO)
 
-![alt te](https://github.com/spympr/car_racer_gym/blob/main/Videos/PPO/Steps_5000.gif)
+![alt te](https://github.com/spympr/car_racer_gym/blob/main/GIFs/PPO/Steps_5000.gif)
 
 ## Actor-Critic
 
 [Experiments](https://wandb.ai/andreas_giannoutsos/gym_car_racer/reports/DQN-Experiments---Vmlldzo0OTU0NzQ)
 
-[GIFs](https://github.com/spympr/car_racer_gym/tree/main/Videos/A2C)
+[GIFs](https://github.com/spympr/car_racer_gym/tree/main/GIFs/A2C)
 
 
 ## Contributors
