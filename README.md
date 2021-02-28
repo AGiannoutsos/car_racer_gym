@@ -25,9 +25,11 @@
 
 ## Actor-Critic
 
-[Experiments](https://wandb.ai/andreas_giannoutsos/gym_car_racer/reports/DQN-Experiments---Vmlldzo0OTU0NzQ)
+[Experiments](https://wandb.ai/andreas_giannoutsos/gym_car_racer/reports/-ctor-Critic-A2C-Experiments--Vmlldzo0OTU3NDA)
 
 [GIFs](https://github.com/spympr/car_racer_gym/tree/main/GIFs/A2C)
+
+![alt te](https://github.com/spympr/car_racer_gym/blob/main/GIFs/A2C/.gif)
 
 
 ## Contributors
