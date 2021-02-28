@@ -4,7 +4,7 @@
 
 2. You can check for detailed information about these three RL algorithms here [Report](https://github.com/spympr/car_racer_gym/tree/), where we analyzed them each one seperately. Also, it includes information about our experiments and setup and conclusions of them.
 
-3. In folder [GIFs](https://github.com/spympr/car_racer_gym/tree/main/Videos) you can select whichever RL algorithm you prefer in order to observe all evaluation performance's videos (which we convert them to GIFs), that we managed to make with different number of timesteps.
+3. In folder [GIFs](https://github.com/spympr/car_racer_gym/tree/main/GIFs) you can select whichever RL algorithm you prefer in order to observe all evaluation performance's videos (which we convert them to GIFs), that we managed to make with different number of timesteps.
 
 ## Deep Q-Network (DQN)
 
