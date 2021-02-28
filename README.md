@@ -9,16 +9,19 @@
 ## Deep Q-Network (DQN)
 
 [Experiments](https://wandb.ai/andreas_giannoutsos/gym_car_racer/reports/DQN-Experiments---Vmlldzo0OTU0NzQ)
+
 [Videos](https://github.com/spympr/car_racer_gym/tree/main/Videos/DQN)
 
 ## Proximal Policy Optimization (PPO)
 
 [Experiments](https://wandb.ai/andreas_giannoutsos/gym_car_racer/reports/DQN-Experiments---Vmlldzo0OTU0NzQ)
+
 [Videos](https://github.com/spympr/car_racer_gym/tree/main/Videos/PPO)
 
 ## Actor-Critic
 
 [Experiments](https://wandb.ai/andreas_giannoutsos/gym_car_racer/reports/DQN-Experiments---Vmlldzo0OTU0NzQ)
+
 [Videos](https://github.com/spympr/car_racer_gym/tree/main/Videos/A2C)
 
 
