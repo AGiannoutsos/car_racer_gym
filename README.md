@@ -4,7 +4,7 @@
 
 2. You can check for detailed information about these three RL algorithms here [README](https://github.com/spympr/car_racer_gym/tree/), where we analyzed them each one seperately. Also, it includes information about our experiments and setup and conclusions of them.
 
-3. In folder [Results](https://github.com/spympr/car_racer_gym/tree/main/Results) you can select whichever RL algorithm you prefer in order to observe all experiment's charts and evaluation performance's videos, that we managed to make, with different number of timesteps.
+3. In folder [Videos](https://github.com/spympr/car_racer_gym/tree/main/Videos) you can select whichever RL algorithm you prefer in order to observe all evaluation performance's videos, that we managed to make, with different number of timesteps.
 
 ## Deep Q-Network (DQN)
 
@@ -12,7 +12,11 @@
 
 ## Proximal Policy Optimization (PPO)
 
+[Experiments](https://wandb.ai/andreas_giannoutsos/gym_car_racer/reports/DQN-Experiments---Vmlldzo0OTU0NzQ)
+
 ## Actor-Critic
+
+[Experiments](https://wandb.ai/andreas_giannoutsos/gym_car_racer/reports/DQN-Experiments---Vmlldzo0OTU0NzQ)
 
 
 ## Contributors
