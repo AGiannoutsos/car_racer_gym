@@ -12,7 +12,7 @@ In addition, in folder [Results](https://github.com/spympr/car_racer_gym/tree/ma
 ## Actor-Critic
 
 
-## Team's members
+## Contributors
 1. [Alexandra Apostolopoulou](https://github.com/alexaapo)
 2. [Andreas Giannoutsos](https://github.com/AGiannoutsos)
 3. [Spyros Briakos](https://github.com/spympr)
