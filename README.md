@@ -10,7 +10,7 @@
 
 [Experiments](https://wandb.ai/andreas_giannoutsos/gym_car_racer/reports/DQN-Experiments---Vmlldzo0OTU0NzQ)
 
-[GIFs](https://github.com/spympr/car_racer_gym/tree/main/Videos/DQN)
+[GIFs](https://github.com/spympr/car_racer_gym/tree/main/GIFs/DQN)
 
 ![alt te](https://github.com/spympr/car_racer_gym/blob/main/GIFs/DQN/Steps_2000.gif)
 
@@ -19,7 +19,7 @@
 
 [Experiments](https://wandb.ai/andreas_giannoutsos/gym_car_racer/reports/Proximal-Policy-Optimization-PPO-Experiments--Vmlldzo0OTU3MDA)
 
-[GIFs](https://github.com/spympr/car_racer_gym/tree/main/Videos/PPO)
+[GIFs](https://github.com/spympr/car_racer_gym/tree/main/GIFs/PPO)
 
 ![alt te](https://github.com/spympr/car_racer_gym/blob/main/GIFs/PPO/Steps_5000.gif)
 
