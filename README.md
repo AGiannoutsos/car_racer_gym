@@ -29,7 +29,7 @@
 
 [A2C_GIFs](https://github.com/spympr/car_racer_gym/tree/main/GIFs/A2C)
 
-![alt te](https://github.com/spympr/car_racer_gym/blob/main/GIFs/A2C/g32_5000.gif)
+![alt te](https://github.com/spympr/car_racer_gym/blob/main/GIFs/A2C/g16-5000.gif)
 
 
 ## Contributors
