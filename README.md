@@ -12,6 +12,8 @@
 
 [DQN_GIFs](https://github.com/spympr/car_racer_gym/tree/main/GIFs/DQN)
 
+[![Click here to open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/spympr/car_racer_gym/blob/main/DQN.ipynb)
+
 ![alt te](https://github.com/spympr/car_racer_gym/blob/main/GIFs/DQN/Steps_2000.gif)
 
 
@@ -21,6 +23,8 @@
 
 [PPO_GIFs](https://github.com/spympr/car_racer_gym/tree/main/GIFs/PPO)
 
+[![Click here to open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/spympr/car_racer_gym/blob/main/PPO.ipynb)
+
 ![alt te](https://github.com/spympr/car_racer_gym/blob/main/GIFs/PPO/Steps_5000.gif)
 
 ## Actor-Critic (A2C)
@@ -28,6 +32,8 @@
 [A2C_Experiments](https://wandb.ai/andreas_giannoutsos/gym_car_racer/reports/-ctor-Critic-A2C-Experiments--Vmlldzo0OTU3NDA)
 
 [A2C_GIFs](https://github.com/spympr/car_racer_gym/tree/main/GIFs/A2C)
+
+[![Click here to open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/spympr/car_racer_gym/blob/main/A2C.ipynb)
 
 ![alt te](https://github.com/spympr/car_racer_gym/blob/main/GIFs/A2C/g16-5000.gif)
 
