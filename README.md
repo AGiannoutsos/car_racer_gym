@@ -12,6 +12,8 @@
 
 [DQN_GIFs](https://github.com/spympr/car_racer_gym/tree/main/GIFs/DQN)
 
+[![Click here to open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/spympr/car_racer_gym/blob/main/DQN.ipynb)
+
 ![alt te](https://github.com/spympr/car_racer_gym/blob/main/GIFs/DQN/Steps_2000.gif)
 
 
